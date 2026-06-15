@@ -6,6 +6,16 @@
 
 输入一个**化学名称**（中文/英文）、**CAS号**、或 **ChemicalBook 产品页面链接**，自动在 ChemicalBook (www.chemicalbook.com) 上找到该化合物，下载结构式图片并展示。
 
+### ✨ 核心卖点：批量查询
+
+支持**一次查多个**化学物质的结构式！只要给 CAS 号列表，秒出结果：
+
+> **"帮我批量查一下苯、甲苯、乙醇的结构式"**
+> **"查 CAS 71-43-2、108-88-3、64-17-5 的结构式"**
+
+利用 ChemicalBook 固定图片路径 `https://www.chemicalbook.com/CAS/GIF/{CAS}.gif` 直接下载，
+无需开浏览器逐个搜索，**速度快到飞起** 🚀
+
 ## 安装
 
 将本仓库克隆或下载到 Hermes Agent 的 skills 目录：
